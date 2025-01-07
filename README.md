@@ -7,6 +7,10 @@ I'm Ethan, a student at the University of New South Wales, currently pursuing a 
 - 🎸 **Hobbies:** Outside of studies, you can usually find me in my room playing the guitar and piano, or at the gym lifting weights 💪
 
 
+#### Check out what I like to listen to while coding!
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gzo59oatnacb20sk7jdcod5bx)
+
+
 # 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
