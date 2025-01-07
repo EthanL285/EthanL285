@@ -4,7 +4,7 @@ I'm Ethan, a student at the University of New South Wales, currently pursuing a 
 
 - 🚀 **Future Project:** I plan to develop a machine learning-based recommendation system focused on suggesting new music to users by analysing their listening preferences and habits.<br>
 
-- 🎸 **Hobbies:** Outside of studies, you can usually find me in my room playing the guitar and piano or at the gym lifting weights 💪
+- 🎸 **Hobbies:** Outside of studies, you can usually find me in my room playing the guitar and piano, or at the gym lifting weights 💪
 
 
 # 💻 Tech Stack
