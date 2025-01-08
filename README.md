@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Callibri&weight=900&size=33&pause=1000&color=FFFFFF&vCenter=true&width=435&height=40&lines=Hello+There!👋)](https://git.io/typing-svg)
 
-I'm Ethan, a student at the University of New South Wales, currently pursuing a Bachelor of Engineering (Honours) and Science (Computer Science) with a specialisation in Mechatronics and Artificial Intelligence.<br>
+I'm Ethan, a student at the University of New South Wales, currently pursuing a Bachelor of Engineering (Honours) and Computer Science with a specialisation in Mechatronics and Artificial Intelligence.<br>
 - 🔭 **Current Focus:** I’m currently working on [TabPro](https://github.com/EthanL285/TabPro), an all-in-one, cross-platform GUI application designed as an editor, viewer, and simulator for guitar tablature.<br>
 
 - 🚀 **Future Project:** I plan to develop a machine learning-based recommendation system focused on suggesting new music to users by analysing their listening preferences and habits.<br>
