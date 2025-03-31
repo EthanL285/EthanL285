@@ -3,7 +3,7 @@
 I'm Ethan, a student at the University of New South Wales, currently pursuing a Bachelor of Engineering (Honours) and Computer Science with a specialisation in Mechatronics and Artificial Intelligence.<br>
 - 🔭 **Current Focus:** I’m currently working on [TabPro](https://github.com/EthanL285/TabPro), an all-in-one, cross-platform GUI application designed as an editor, viewer, and simulator for guitar tablature.<br>
 
-- 🚀 **Future Project:** I plan to develop a machine learning-based recommendation system focused on suggesting new music to users by analysing their listening preferences and habits.<br>
+- 🚀 **Recent Project:** Collaborated on [Smell The Roses](https://github.com/EthanL285/Smell-The-Roses), a travel planning website that generates scenic routes using MapBox and creates AI-powered personalised itineraries with OpenAI.<br>
 
 - 🎸 **Hobbies:** Outside of studies, you can usually find me in my room playing the guitar and piano, or at the gym lifting weights 💪
 
