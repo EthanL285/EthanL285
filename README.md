@@ -5,7 +5,7 @@ I'm Ethan, a student at the University of New South Wales, currently pursuing a 
 
 - 🚀 **Recent Project:** I recently collaborated on [Smell The Roses](https://github.com/EthanL285/Smell-The-Roses), a travel planning website that generates scenic routes using MapBox and creates AI-powered personalised itineraries with OpenAI.<br>
 
-- 🎸 **Hobbies:** Outside of studies, you can usually find me in my room playing the guitar and piano, or at the gym lifting weights 💪
+- 🎸 **Hobbies:** Outside of studies, you can usually find me in my room playing the guitar and piano, at the gym lifting weights, or out and about enjoying photography 📸
 
 
 #### Check out what I like to listen to while coding!
